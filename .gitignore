@@ -1,1 +1,3 @@
 cassandra-docker/data/
+cassandra-docker/trush/
+cassandra-docker/cassandra-node*
